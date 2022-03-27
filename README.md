@@ -1,7 +1,7 @@
 # Current-Location
 Simple app with only 1 button, which shows ur location when its pressed.
 
-#Used Stack
+# Used Stack
 - UIKit
 - MapKit
 - CoreLocation
