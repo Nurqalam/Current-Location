@@ -13,6 +13,7 @@
 		B5416AA627F0C8E6000CBAA0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5416AA427F0C8E6000CBAA0 /* Main.storyboard */; };
 		B5416AA827F0C8E7000CBAA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5416AA727F0C8E7000CBAA0 /* Assets.xcassets */; };
 		B5416AAB27F0C8E7000CBAA0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5416AA927F0C8E7000CBAA0 /* LaunchScreen.storyboard */; };
+		B5416AB427F0CC1A000CBAA0 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5416AB327F0CC1A000CBAA0 /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B5416AA727F0C8E7000CBAA0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5416AAA27F0C8E7000CBAA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5416AAC27F0C8E7000CBAA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5416AB327F0CC1A000CBAA0 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B5416A9E27F0C8E6000CBAA0 /* AppDelegate.swift */,
 				B5416AA027F0C8E6000CBAA0 /* SceneDelegate.swift */,
 				B5416AA227F0C8E6000CBAA0 /* ViewController.swift */,
+				B5416AB327F0CC1A000CBAA0 /* LocationManager.swift */,
 				B5416AA427F0C8E6000CBAA0 /* Main.storyboard */,
 				B5416AA727F0C8E7000CBAA0 /* Assets.xcassets */,
 				B5416AA927F0C8E7000CBAA0 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5416AB427F0CC1A000CBAA0 /* LocationManager.swift in Sources */,
 				B5416AA327F0C8E6000CBAA0 /* ViewController.swift in Sources */,
 				B5416A9F27F0C8E6000CBAA0 /* AppDelegate.swift in Sources */,
 				B5416AA127F0C8E6000CBAA0 /* SceneDelegate.swift in Sources */,
